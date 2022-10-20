@@ -1,10 +1,9 @@
 # Creative-Coding-1
-Creative Coding 1 weekly homework
 
 
 
 
-Here is my W1 homework:
+*Here is my W1 homework:
 https://mimicproject.com/code/329696b8-b935-b0e6-81a2-ecac108d0c65
 
 Description:
@@ -15,7 +14,7 @@ I will keep going.
 
 
 
-here is my W2 work:
+*Here is my W2 work:
 https://mimicproject.com/code/50bd27a8-b796-fc07-8be3-11ff3c454e02
 
 
@@ -25,7 +24,7 @@ seeing two ordinary sounds changing totally different.
 
 
 
-Here is my W3 homework:
+*Here is my W3 homework:
 https://mimicproject.com/code/b5518368-0164-20fa-d247-5dfaf0ac6042
 
 
