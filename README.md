@@ -15,13 +15,13 @@ I will keep going.
 
 
 
-Here is my W2 homework::
-https://mimicproject.com/code/b5518368-0164-20fa-d247-5dfaf0ac6042
+here is my W2 work:
+https://mimicproject.com/code/50bd27a8-b796-fc07-8be3-11ff3c454e02
 
 
 Description:
-I use samples and sinewaves to make the two samples combine and change. It's really a lot of fun
-seeing the two ordinary sounds changing.
+I combine a sample and sinewave to make the two samples combine and change. It's really a lot of fun
+seeing two ordinary sounds changing totally different.
 
 
 
