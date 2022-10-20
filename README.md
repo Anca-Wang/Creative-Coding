@@ -30,4 +30,4 @@ https://mimicproject.com/code/b5518368-0164-20fa-d247-5dfaf0ac6042
 
 
 Description:
-I use a few samples to make the music more interesting. By the way, samples are really fun!
+I added three samples to make the music more interesting. By the way, samples are really fun!
