@@ -14,7 +14,7 @@ I will keep going.
 
 
 
-*Here is my W2 work:
+*Here is my W1 work:
 https://mimicproject.com/code/50bd27a8-b796-fc07-8be3-11ff3c454e02
 
 
@@ -24,9 +24,25 @@ seeing two ordinary sounds changing totally different.
 
 
 
-*Here is my W3 homework:
+*Here is my W2 homework:
 https://mimicproject.com/code/b5518368-0164-20fa-d247-5dfaf0ac6042
 
 
 Description:
 I added three samples to make the music more interesting. By the way, samples are really fun!
+
+
+
+*Here is my W3 homework:
+https://mimicproject.com/code/7625c9fb-e972-44fc-05cc-25625a6825fd
+
+Description:
+I explored canvas and made some randomly generated circles with random movement and colors.
+
+
+
+
+
+
+
+
